@@ -3,7 +3,6 @@ configs/
 output/
 *.out
 *.err
-*.sh
 *.tar
 *.tar.gz
 
